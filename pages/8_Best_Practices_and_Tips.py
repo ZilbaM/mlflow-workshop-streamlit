@@ -21,13 +21,6 @@ mlflow.set_tag("model", "MLP")
 mlflow.set_tag("dataset", "MNIST")
 ```
 
-### Logging Custom Metrics
-- Log additional metrics like validation loss:
-
-```python
-mlflow.log_metric("val_loss", val_loss, step=epoch)
-```
-
 ### Handling Large Artifacts
 - Store models and artifacts remotely if they are large.
 - Configure MLFlow to use a remote tracking server or artifact storage.

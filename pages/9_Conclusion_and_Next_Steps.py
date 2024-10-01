@@ -25,9 +25,9 @@ st.write("""
 
 ### Feedback
 
-We value your feedback! Please share your thoughts on this workshop to help us improve.
+I value your feedback! Please share your thoughts on this workshop to help me improve.
 
 ---
 
-Thank you for participating in the **Introduction to MLFlow Tracking with PyTorch MNIST MLP** workshop. We hope you found it informative and useful for your machine learning projects.
+Thank you for participating in the **Introduction to MLFlow Tracking** workshop. I hope you found it informative and useful for your machine learning projects.
 """)

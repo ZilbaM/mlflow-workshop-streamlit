@@ -7,7 +7,7 @@ st.title("Brief Overview of MLOps and MLFlow")
 st.write("""
 ### What is MLOps?
 
-**MLOps (Machine Learning Operations)** is a set of practices that combines **Machine Learning**, **DevOps**, and **Data Engineering** to deploy and maintain ML systems in production reliably and efficiently.
+**MLOps (Machine Learning Operations)** is a set of practices that combines **Machine Learning** and **DevOps**, to deploy and maintain Machine Learning systems in production reliably and efficiently.
 
 #### Key Elements of MLOps:
 

@@ -5,8 +5,6 @@ import streamlit as st
 st.title("Introduction")
 
 st.write("""
-Welcome to the **Introduction to MLFlow Tracking with PyTorch MNIST MLP** workshop!
-
 ### Workshop Objectives
 
 - **Understand** the basics of MLFlow Tracking.

@@ -25,14 +25,12 @@ The UI will be accessible at http://localhost:5000.
 - View all experiments and runs.
 - Search and filter runs.
 
-Image Placeholder: Screenshot of the Experiments page.
+st.image("../images/experiment_page.png", caption="MLFlow UI Screenshot")
 
 **Run Details**
 - Click on a run to see parameters, metrics, and artifacts.
 - Download artifacts like the saved model.
 
-Image Placeholder: Screenshot of Run Details page.
-
 **Compare Runs**
 - Select multiple runs to compare their metrics and parameters side by side.
-Image Placeholder: Screenshot of comparison view. """)
+""")
